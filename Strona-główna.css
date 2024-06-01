@@ -1,0 +1,27 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 276px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Alata;
+  margin: 100px auto 0;
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-custom-html-1 {
+  margin-bottom: 60px;
+  width: 100%;
+  height: auto;
+  min-height: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    width: auto;
+  }
+}

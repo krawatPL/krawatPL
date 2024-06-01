@@ -1,0 +1,60 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 487px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 275px;
+  height: 275px;
+  margin: 100px auto 0 35px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Alata;
+  margin: -209px 120px 0 339px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: "ADLaM Display";
+  --radius: 10px;
+  border-style: solid;
+  margin: 67px auto 38px;
+  padding: 14px 115px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: 681px;
+    margin-right: 20px;
+    margin-left: 239px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 39px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 643px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 32px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 23px 0 32px;
+}
