@@ -283,7 +283,7 @@ footer p {
   border-radius: 1rem;
   padding: 3rem;
   max-width: 100rem;
-  min-width: fit-content;
+  min-width: 90%;
   display: flex;
   align-items: center;
   margin: 0 auto;
